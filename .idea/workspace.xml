@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c9d5982-b03f-4031-a1e8-eec3515f42c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1o0hg1INwQjYHU6rG9CUdLfUck7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core/ORM" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c9d5982-b03f-4031-a1e8-eec3515f42c7" name="Default Changelist" comment="" />
+      <created>1612429522593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612429522593</updated>
+      <workItem from="1612429525474" duration="10170000" />
+      <workItem from="1612479685325" duration="15000" />
+      <workItem from="1612678925881" duration="3239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="235" key="#SQL_Dialects" timestamp="1612429796091">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="0" y="235" key="#SQL_Dialects/0.23.1440.823@0.23.1440.823" timestamp="1612429796091" />
+    <state x="320" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612695661767">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="320" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1612695661767" />
+    <state x="486" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1612688393845">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="486" y="90" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1612688393845" />
+    <state x="505" y="352" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#" timestamp="1612475227966">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="505" y="352" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#/0.23.1440.823@0.23.1440.823" timestamp="1612475227966" />
+    <state x="443" y="157" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1612440776970">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="443" y="157" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/0.23.1440.823@0.23.1440.823" timestamp="1612440776970" />
+    <state x="399" y="109" key="NewPhpClassDialog" timestamp="1612679115098">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="399" y="109" key="NewPhpClassDialog/0.23.1440.823@0.23.1440.823" timestamp="1612679115098" />
+    <state x="427" y="209" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1612436874329">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="427" y="209" key="com.jetbrains.php.test.PhpNewTestDialog/0.23.1440.823@0.23.1440.823" timestamp="1612436874329" />
+    <state x="425" y="182" key="refactoring.ChangeSignatureDialog" timestamp="1612688655726">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="425" y="182" key="refactoring.ChangeSignatureDialog/0.23.1440.823@0.23.1440.823" timestamp="1612688655726" />
+  </component>
+</project>

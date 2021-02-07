@@ -1,0 +1,13 @@
+{
+    "name": "safalpokharel/test",
+    "description": "simple website using php oop",
+    "license": "MIT",
+    "require": {
+      "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    }
+}
