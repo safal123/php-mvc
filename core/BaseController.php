@@ -18,11 +18,4 @@ class BaseController
         return Application::$app->router->renderView($view, $params);
     }
 
-    /**
-     * @return \PDO
-     */
-    public function db()
-    {
-        return Application::$app->db->make();
-    }
 }
